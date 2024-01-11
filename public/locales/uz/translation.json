@@ -1,0 +1,263 @@
+{
+  "sidebarUser":{
+    "overview":"Shaxsiy profil",
+    "courses":"Kurslar",
+    "payment":"To'lov sozlamalari",
+    "settings":"Sozlamalar",
+    "change-password":"Parolni O'zgartirish"
+  },
+  "courses": "Kurslar",
+  "employer": "Ish beruvchi",
+  "blog": "Blog",
+  "login": "Kirish",
+  "btnCourses": "Kursga o'tish!",
+  "headerTitle": "Biz bilan eng yaxshi  <i> Ta'limdan </i>biriga erishing!",
+  "headerText": "Xalqaro buxgalteriya va moliya imtixonlarni topshirish uchun kerak bo'lgan hamma manbalarni ushbu platformada topishingiz mumkin!",
+  "ListOne": "<i>Eng sifatli</i> onlayn darslar",
+  "ListThree": "<i> Oraliq </i> nazorat imtixonlari",
+  "ListTwo": "<i> 24/7 </i> texnik yordam xizmati",
+  "providerTitle": "Xalqaro buxgalteriya va moliya bo'yicha tasdiqlangan o'quv provayderlari",
+  "providerText": "Xalqaro ACCA tashkilotidan 'Silver Learning Partner'akkreditatsiyadan o'tgan onlayn o'quv platformasi",
+  "cartaOne": "Talabalar va aʼzolar tomonidan foydalaniladi",
+  "cartaTwo": "Kredit bilan baholangan kurslar",
+  "coursesTitle": "Dasturlarimizni kashf eting    ",
+  "coursesText": "Professional va shaxsiy hayotingizga mos keladigan tarzda onlayn    o'qish orqali o'rganishni sodda va arzonlashtiring.",
+  "coursesDesc": "Dasturlar",
+  "accaTitle": "ACCA",
+  "accaText": "Association of Certified    Chartered Accountants    ACCA    ACCA imtixonlariga eng keng    qamrovli va eng so'nggi o'quv    resurslari, jumladan, ma'ruzalar,    xulosalar, sinov imtixonlari,   mentor yordami va boshqalar    bilan tayyorlaning.    ",
+  "dipIfrText": "Diploma in International Financial Reporting Mutaxassislar tomonidan ishlab chiqilgan ma'ruzalar, xulosalar, testlar, sinov imtixonlari, mentor yordami va boshqalarni o'z ichiga olgan kursları o'rganish orqali DipIFR malakasini qo'lga kiriting. ",
+  "dipIfrTitle": "DipIFR",
+  "whyUs": "Nega biz?",
+  "stepTitle": "Online Learning Platform",
+  "stepText": "Siz istagan barcha ACCA o'quv dasturlari ushbu platformada!",
+  "stepHeader": "Bizning 3 bosqichli o'qitish yondashuvimiz",
+  "stepDesc": "Talaba o'z kursini va natijada kasbiy imtixonlarini qanday o'tkazishi kerak",
+  "stepListOne": "Hohish",
+  "stepListOneText": "OLP yordamida siz istagan karyerangizga ACCA malakasi orqali erishing ",
+  "stepListTwo": "Harakat",
+  "stepListTwoText": "Biz tayyorlagan videolar, qo'llanmalar va qulay mock imtixonlari orqali bilimingizni oshiring ",
+  "stepListThree": "Natija",
+  "faqText": "Barcha savollaringizga javob topildi.  ",
+  "stepListThreeText": "Sayohatning o'rganish bosqichida yo'l-yo'riq va yuqori standartga muvofiq bosqichlarni bajarish va qo'llash orqali talabalar o'quv bosqichining qo'yilgan maqsadiga erishadilar. ",
+  "questionOne": "Kursni tamomlaganimdan so'ng sertifikat beriladimi?",
+  "answerOne": "Ha, 'OLP' brendi ostidagi kurs tamomlaganlik haqida sertifikat taqdim etiladi!",
+  "questionTwo": " O'quv platformangiz akkreditatsiyadan o'tganmi?",
+  "answerTwo": "Albatta, bizning platforma akkreditatsiyadan o'tilgan. Batafsil, http/",
+  "questionThree": "Darslik yoki qo'shimcha materiallarni sotib olishim kerakmi?",
+  "answerThree": "Yo'q, ular sizga kerak emas. Biz har bir kurs uchun keng qamrovli kurs materiallarini taqdim etamiz.",
+  "questionFour": " Kurslarni doimiy ravishda ko'rsam bo'ladimi? ",
+  "answerFour": "Kurslarimiz muddati chegaralanganligi sababli, sizga 4 oy muddat uchun aktiv qilib beriladi. Muddat tugaganidan so'ng, obunangiz yopiladi! ",
+  "start": "Boshlash",
+  "testimonials": {
+    "top": "Bitiruvchilar",
+    "title": "Bitiruvchilarning hikoyalari🙌",
+    "text": "Learnsignal yordamida o'z kareralarini o'zgartirgan minglab talabalarga qo'shiling! Learnsignalda siz yaxshi sherik bo'lasiz!",
+    "great": "Ajoyib",
+    "review": "240 ta sharhga asoslangan",
+    "data": [
+      {
+        "id": 1,
+        "user": "Ash B",
+        "title": "Yuqori sifatli ACCA kontenti",
+        "text": "Kurslarning to'liq ko'rinishi. Ko'plab ma'lumot beruvchi videolar va amaliy savollar",
+        "date": "02 Fevral, 2022 yil"
+      },
+      {
+        "id": 2,
+        "user": "Anesuishe Bvukumbwe",
+        "title": "SAMARALI, QISQA VA ANIK MA'RUZALAR",
+        "text": "Ma'ruzalar qisqa va aniq bo'lib, sizga yordam kerak bo'lganda repetitorlardan tezkor javoblar bor.",
+        "date": "03 Dekabr, 2022 yil"
+      },
+      {
+        "id": 3,
+        "user": "M M",
+        "title": "Oʻrganish signali juda foydali boʻldi…",
+        "text": "O'rganish signali mening ATX imtihonlarim uchun juda foydali bo'ldi. Repetitorlarning mahorat darslari ajoyib o'tdi. Har birining yondashuvi boshqacha edi, lekin imtihondan o'tish uchun ajoyib maslahat. Men undan foydalanishda davom etaman. Amaliyot platformasida ba'zi imtihon topshiriqlari yangilanmagan va yechimga mos kelmas edi, shuning uchun bu biroz oldinga va orqaga sabab bo'ldi. Bundan tashqari, ro'yxatdan o'tgan foydalanuvchilar uchun har safar pw bilan tizimga kirmaslik foydali bo'ladi. Qolgan hammasi ajoyib. Qo'llab-quvvatlaganingiz uchun rahmat, minnatdorman!",
+        "date": "2023 yil 25 yanvar"
+      },
+      {
+        "id": 4,
+        "user": "Ash B",
+        "title": "Yuqori sifatli ACCA kontenti",
+        "text": "Kurslarning to'liq ko'rinishi. Ko'plab ma'lumot beruvchi videolar va amaliy savollar",
+        "date": "02 Fevral, 2022 yil"
+      },
+      {
+        "id": 5,
+        "user": "Anesuishe Bvukumbwe",
+        "title": "SAMARALI, QISQA VA ANIK MA'RUZALAR",
+        "text": "Ma'ruzalar qisqa va aniq bo'lib, sizga yordam kerak bo'lganda repetitorlardan tezkor javoblar bor.",
+        "date": "03 Dekabr, 2022 yil"
+      },
+      {
+        "id": 6,
+        "user": "M M",
+        "title": "Oʻrganish signali juda foydali boʻldi…",
+        "text": "O'rganish signali mening ATX imtihonlarim uchun juda foydali bo'ldi. Repetitorlarning mahorat darslari ajoyib o'tdi. Har birining yondashuvi boshqacha edi, lekin imtihondan o'tish uchun ajoyib maslahat. Men undan foydalanishda davom etaman. Amaliyot platformasida ba'zi imtihon topshiriqlari yangilanmagan va yechimga mos kelmas edi, shuning uchun bu biroz oldinga va orqaga sabab bo'ldi. Bundan tashqari, ro'yxatdan o'tgan foydalanuvchilar uchun har safar pw bilan tizimga kirmaslik foydali bo'ladi. Qolgan hammasi ajoyib. Qo'llab-quvvatlaganingiz uchun rahmat, minnatdorman!",
+        "date": "2023 yil 25 yanvar"
+      },
+      {
+        "id": 7,
+        "user": "Ash B",
+        "title": "Yuqori sifatli ACCA kontenti",
+        "text": "Kurslarning to'liq ko'rinishi. Ko'plab ma'lumot beruvchi videolar va amaliy savollar",
+        "date": "02 Fevral, 2022 yil"
+      },
+      {
+        "id": 8,
+        "user": "Anesuishe Bvukumbwe",
+        "title": "SAMARALI, QISQA VA ANIK MA'RUZALAR",
+        "text": "Ma'ruzalar qisqa va aniq bo'lib, sizga yordam kerak bo'lganda repetitorlardan tezkor javoblar bor.",
+        "date": "03 Dekabr, 2022 yil"
+      },
+      {
+        "id": 9,
+        "user": "M M",
+        "title": "Oʻrganish signali juda foydali boʻldi…",
+        "text": "O'rganish signali mening ATX imtihonlarim uchun juda foydali bo'ldi. Repetitorlarning mahorat darslari ajoyib o'tdi. Har birining yondashuvi boshqacha edi, lekin imtihondan o'tish uchun ajoyib maslahat. Men undan foydalanishda davom etaman. Amaliyot platformasida ba'zi imtihon topshiriqlari yangilanmagan va yechimga mos kelmas edi, shuning uchun bu biroz oldinga va orqaga sabab bo'ldi. Bundan tashqari, ro'yxatdan o'tgan foydalanuvchilar uchun har safar pw bilan tizimga kirmaslik foydali bo'ladi. Qolgan hammasi ajoyib. Qo'llab-quvvatlaganingiz uchun rahmat, minnatdorman!",
+        "date": "2023 yil 25 yanvar"
+      },
+      {
+        "id": 10,
+        "user": "Ash B",
+        "title": "Yuqori sifatli ACCA kontenti",
+        "text": "Kurslarning to'liq ko'rinishi. Ko'plab ma'lumot beruvchi videolar va amaliy savollar",
+        "date": "02 Fevral, 2022 yil"
+      },
+      {
+        "id": 11,
+        "user": "Anesuishe Bvukumbwe",
+        "title": "SAMARALI, QISQA VA ANIK MA'RUZALAR",
+        "text": "Ma'ruzalar qisqa va aniq bo'lib, sizga yordam kerak bo'lganda repetitorlardan tezkor javoblar bor.",
+        "date": "03 Dekabr, 2022 yil"
+      },
+      {
+        "id": 12,
+        "user": "M M",
+        "title": "Oʻrganish signali juda foydali boʻldi…",
+        "text": "O'rganish signali mening ATX imtihonlarim uchun juda foydali bo'ldi. Repetitorlarning mahorat darslari ajoyib o'tdi. Har birining yondashuvi boshqacha edi, lekin imtihondan o'tish uchun ajoyib maslahat. Men undan foydalanishda davom etaman. Amaliyot platformasida ba'zi imtihon topshiriqlari yangilanmagan va yechimga mos kelmas edi, shuning uchun bu biroz oldinga va orqaga sabab bo'ldi. Bundan tashqari, ro'yxatdan o'tgan foydalanuvchilar uchun har safar pw bilan tizimga kirmaslik foydali bo'ladi. Qolgan hammasi ajoyib. Qo'llab-quvvatlaganingiz uchun rahmat, minnatdorman!",
+        "date": "2023 yil 25 yanvar"
+      }
+    ]
+  },
+  "sidebar": [
+    "Ko'rsatma",
+    "O'quv dasturi",
+    "Fikrlar",
+    "Savollar",
+    "7 kun Bepul  ko'ring"
+  ],
+  "overview": {
+    "top": "Ko'rsatma",
+    "title": "Nega {{abbr}} ni o'rganish  kerak?",
+    "why": "Nima uchun {{abbr}}?",
+    "text": [
+      "O'qish uchun 100% o'quv mashg'ulotlarini o'rganing va imtihonlarni osonlik bilan topshiring!",
+      "{{abbr}}  - buxgalteriya hisobi malakalaridan biridir. Unda uchta daraja mavjud: boshlang'ich, yuqori va professional. Buxgalteriya hisobi ham bor, bu qisqaroq malaka, bu esa boshlangich kursdan kelib chiqadi va buxgalteriyada tushuncha yaratishga yordam berdi.",
+      "AQ16 o'quv dasturida ro'yxatdan o'tish  yopildi. Agar siz allaqachon {{abbr}} dan ro'yxatdan o'tgan bo'lsangiz, ushbu kurslarni sotib olishingizga ishonch hosil qiling.",
+      "2022 yil 1 sentyabrdagi {{abbr}} bilan ro'yxatdan o'tishni istagan har bir kishi yangi Q2022 o'quv dasturida ro'yxatdan o'tishi kerak."
+    ],
+    "study": [
+      {
+        "title": "Mutaxassislar tomonidan ishlab chiqilgan tarkib",
+        "text": "Kurs tarkibi va boshqa barcha o'quv materiallari bizning mutaxassislarimiz tomonidan sinchkovlik bilan ishlab chiqilgan."
+      },
+      {
+        "title": "24/7 Mentor Yordami",
+        "text": "Savollaringizga mutaxasis mentorlar tomonidan istalgan vaqtda javob olishingiz mumkin"
+      },
+      {
+        "title": "Amaliy Savollar",
+        "text": "Bilimlarni mustahkamlash va muvaffaqiyatga erishganingizga ishonch hosil qilish uchun vazifalarni mashq qiling."
+      },
+      {
+        "title": "O'quv rejalari",
+        "text": "Imtihonlaringizga tayyor bo'lish uchun yo'naltirilgan tadqiqotlar rejalari."
+      }
+    ],
+    "contentTitle": "Bizning {{abbr}} kursimiz quyidagilarni ta'kidlaydi:",
+    "content": [
+      {
+        "id": 1,
+        "title": "Yo'naltirilgan o'quv rejalari",
+        "text": "O'qish rejalari sizni o'qishga yo'naltiradi va imtihonlarga tayyor bo'ladi"
+      },
+      {
+        "id": 2,
+        "title": "CBE test savollari",
+        "text": "Imtihonga tayyor ekanligingizga ishonch hosil qilish uchun kompyuterga asoslangan imtihonlar"
+      },
+      {
+        "id": 3,
+        "title": "Ekspert qaydlari va viktorinalar",
+        "text": "Bizning keng qamrovli eslatmalarimiz va kontentimizdan foydalanib o'rganing va bilimingizni viktorinalar bilan sinab ko'ring    "
+      },
+      {
+        "id": 4,
+        "title": "Video ma'ruzalar va yuklab olish mumkin bo'lgan eslatmalar",
+        "text": "Mavzu bo'yicha ma'ruzalar va eslatmalarni yuklab olishning moslashuvchanligi"
+      },
+      {
+        "id": 5,
+        "title": "Imtihon texnikasi darslari",
+        "text": "Mutaxassislarning maslahatlari va texnikasi imtihonlaringizni muvaffaqiyatli topshirishingizga yordam beradi    "
+      },
+      {
+        "id": 6,
+        "title": "Sinov imtihonlari va tuzatish paketlari",
+        "text": "Imtihonga tayyorlanish va repetitorlardan fikr-mulohazalarni olish uchun sinov imtihonlari va tuzatish paketlaridan foydalaning    "
+      }
+    ],
+    "salary": "O'rtacha ish haqi",
+    "employer": "Daromad potentialini oshirish",
+    "time": "O'rtacha ish bilan taminlash",
+    "countries": "Davlatlar foydalanishi"
+  },
+  "record": {
+    "title": "Bizning rekordimiz 🏆",
+    "text": "O'rganishlar davomida o'tishingiz kerak bo'lgan hamma narsa bir joyda!",
+    "h2": "Ishga olish va o'rganish bo'yicha hamkorlarimiz",
+    "status": [
+      { "num": "220,000+", "text": "Jami foydalanuvchilar" },
+      { "num": "130+", "text": "Davlatlar " },
+      { "num": "2.5 million", "text": "Tomosha qilindi" },
+      { "num": "9.5 million", "text": "Savollar tugallandi" }
+    ]
+  },
+  "teacher": {
+    "top": "Iste'dod",
+    "title": "Bizning Mutaxassislarimiz.  Sizning o'qituvchilaringiz. 🎓 ",
+    "text": "Biznesdagi eng yaxshi moliya mutaxassisi bo'lish uchun mutaxasislardan o'rganing!",
+    "aboutTeacher":[
+      {
+        "name":"Qosimova Nargiza",
+        "status":"Markaz boshlig'i"
+      },
+      {
+        "name":"Xaitov Azizbek",
+        "status":"Markaz bosh mutaxassisi"
+      },
+      {
+        "name":"Bobir Tursunovich Mamatov",
+        "status":"Markaz bosh mutaxassisi"
+      }
+    ]
+  },
+  "change": "Parolni o'zgartirish:  ",
+  "password": "Parol",
+  "repeat": "Yangi parolni takrorlang",
+  "current": "Hozigi Parolni kiriting",
+  "new": "Yangi Parolni kiriting",
+  "confirm": "Parol tasdiqlanishi kerak",
+  "noConfirm": "Parol tasdiqlanmadi",
+  "save": "Saqlash",
+  "cancel": "Tozalash",
+  "support": "Yordam",
+  "faq": "Savollar",
+  "contact": "Bog'lanish",
+  "policy": "Maxfiylik siyosati",
+  "terms": "Foydalanish shartlari",
+  "company": "Kompaniya",
+  "development": "Kasbiy rivojlanish"
+}

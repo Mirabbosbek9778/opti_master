@@ -1,0 +1,146 @@
+@font-face {
+  font-family: 'Manrope-Semibold, sans-serif';
+  src: url('./assets/fonts/manrope.semibold.otf');
+}
+@font-face {
+  font-family: 'Manrope-Light, sans-serif';
+  src: url('./assets/fonts/manrope.light.otf');
+}
+@font-face {
+  font-family: 'Manrope-Medium, sans-serif';
+  src: url('./assets/fonts/manrope.medium.otf');
+}
+@font-face {
+  font-family: 'Manrope-thin, sans-serif';
+  src: url('./assets/fonts/manrope.thin.otf');
+}
+@font-face {
+  font-family: 'Manrope';
+  src: url('./assets/fonts/manrope.regular.otf');
+}
+:root {
+  --main-font: 'Manrope';
+  --c-grey-dark: #111827;
+  --c-grey-light: #4b5563;
+  --c-grey: #f1f1f1;
+  --c-green-dark: #3c064f;
+  --c-green-light: #6E3BA7;
+  --c-blue-light: #eff6ff;
+}
+/* 6E3BA7 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--main-font);
+  font-style: normal;
+  scroll-behavior: smooth;
+}
+.display-1 {
+  font-weight: 800;
+  font-size: 3rem;
+  line-height: 86px;
+  font-family: 'Manrope-Medium, sans-serif';
+}
+h1,
+.h1 {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+}
+h2,
+.h2 {
+  font-weight: 700;
+  font-size: 2rem;
+  line-height: 54px;
+}
+h3,
+.h3 {
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 42px;
+}
+h4,
+.h4 {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+}
+p,
+.p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 27px;
+  word-wrap: break-word; /* Allow long words to be able to break */
+}
+.desc {
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 27px;
+  word-wrap: break-word;
+}
+.wrap {
+  width: 100%;
+  /* min-height: 50vh; */
+  padding: 100px 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+.btn {
+  font-family: 'Manrope-Medium, sans-serif';
+  font-size: 1rem;
+  color: #fff;
+  padding: 14px 40px;
+  background-color: var(--c-green-light);
+  border: none;
+  border-radius: 0.25rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.btn:active,
+.btn:hover {
+  background-color: rgb(20, 108, 67);
+}
+.btn:focus {
+  box-shadow: 0 0 0 0.25rem rgb(60 153 110 / 50%);
+}
+
+@media (max-width: 1024px) {
+  .container {
+    width: 90%;
+  }
+  .h4,h4 {
+    font-size: 18px;
+    line-height: 28px;
+  }
+}
+@media (max-width: 768px) {
+  .display-1 {
+    font-size: 38px;
+    line-height: 48px;
+  }
+  .h1,h1 {
+    font-size: 2rem;
+  }
+}
+@media (max-width: 426px) {
+  .wrap{
+    padding: 50px 0;
+  }
+  .btn {
+    width: 100%;
+    padding: 10px;
+  }
+}
+
+/*  111827 */
+/*   */
+/* 064E3B */

@@ -1,0 +1,262 @@
+{
+  "sidebarUser":{
+    "overview":"Account Overview",
+    "courses":"Courses",
+    "payment":"Payment",
+    "settings":"Settings",
+    "change-password":"Change Password"
+  },
+  "courses": "Courses",
+  "employer": "Employers",
+  "blog": "Blog",
+  "login": "Login",
+  "btnCourses": "Explore our courses",
+  "headerTitle": "Get Top <i> Education </i> with us!",
+  "headerText": "Everything you need to pass your Accountancy and Finance exams is here! 30,000+ students have chosen Learnsignal as their trusted online study partner.",
+  "ListOne": "<i> The best</i> online courses",
+  "ListThree": "<i> Control </i>Exams",
+  "ListTwo": "<i> 24/7 </i> tutor support  to answer all your questions",
+  "providerTitle": "Approved Accountancy and Finance Tuition Providers",
+  "providerText": "An online learning platform accredited by the International ACCA organization 'Silver Learning Partner'",
+  "cartaOne": "Used by Students and Members from",
+  "cartaTwo": "Credit-Rated Courses by",
+  "coursesTitle": "Explore our Programs  ",
+  "coursesText": "Make learning simple and affordable by studying online in a way that suits your professional and personal life.  ",
+  "coursesDesc": "PROGRAMS",
+  "accaTitle": "ACCA",
+  "accaText": "Association of Certified Chartered Accountants ACCA Prepare for ACCA exams with the most comprehensive and up-to-date study resources, including lectures, summaries, practice exams, mentor support and more.    ",
+  "dipIfrText": "Diploma in International Financial Reporting Gain the DipIFR qualification by studying courses that include expertly designed lectures, summaries, tests, mock exams, mentor support and more. ",
+  "dipIfrTitle": "DipIFR",
+  "whyUs": "Why Us?",
+  "stepTitle": "Online Learning Platform",
+  "stepText": "All the ACCA study programs you want are on this platform!",
+  "stepHeader": "Our 3-step approach of teaching",
+  "stepDesc": "How a student should progress through their course, and as a result through their professional exams.  ",
+  "stepListOne": "Attain",
+  "stepListOneText": "Using the videos and associated notes and reading materials (pdf viewer) to attain the required knowledge",
+  "stepListTwo": "Apply",
+  "stepListTwoText": "Using the quiz pages and constructed response tools to practice exam-type questions will reinforce the learning from the attain phase.",
+  "stepListThree": "Achieve",
+  "stepListThreeText": "Within the learning phase of the journey by completing the attain and apply phases in line with guidance and to a high standard students will have achieved the targeted goal of the learning phase. ",
+  "faqText": "All your questions answered.",
+  "questionOne": "Will I receive a certificate after completing the course?",
+  "answerOne": "Yes, an 'OLP' branded course completion certificate will be provided!",
+  "questionTwo": "Is your learning platform accredited?",
+  "answerTwo": "Of course, our platform is accredited. More at http/",
+  "questionThree": "Do I need to purchase a textbook or additional materials?",
+  "answerThree": "No, you don't need them. We provide comprehensive course materials for each course.",
+  "questionFour": " Can I view courses continuously? ",
+  "answerFour": "Since our courses are limited in duration, they will be credited to you for a period of 4 months. After the expiration date, your subscription will be closed! ",
+  "start": "Get Started",
+  "testimonials": {
+    "top": "Testimonials",
+    "title": "Alumni Stories 🙌  ",
+    "text": "Join thousands of students who have transformed their careers with learnsignal! You’ll be in good company at learnsignal!",
+    "great": "Great",
+    "review": "Based on 240 reviews",
+    "data": [
+      {
+        "id": 1,
+        "user": "Ash B",
+        "title": "Top quality ACCA content",
+        "text": "Comprehensive overview of the courses. Lots of informative videos and practise questions",
+        "date": "February 02, 2022"
+      },
+      {
+        "id": 2,
+        "user": "Anesuishe Bvukumbwe",
+        "title": "EFFECTIVE ,SHORT AND PRECISE LECTURES",
+        "text": "The lectures are short and precise and there is quick responses from tutors whenever you need assistance.Thumps up guys!",
+        "date": "December 03, 2022"
+      },
+      {
+        "id": 3,
+        "user": "M M",
+        "title": "Learn signal was extremely helpful for…",
+        "text": "Learn signal was extremely helpful for my ATX exams. Master classes from tutors were awesome. Each had a different approach but great advice for exam passing. I will continue to use it. Just in the practice platform some exam practise papers were not up to date and did not match up with the solution, so this caused a bit of back and forth. Also it would be helpful for the registered users not having to log in each time with pw. Everything else is great. Thanks for the support, appreciated!",
+        "date": "January 25, 2023"
+      },
+      {
+        "id": 4,
+        "user": "Ash B",
+        "title": "Top quality ACCA content",
+        "text": "Comprehensive overview of the courses. Lots of informative videos and practise questions",
+        "date": "February 02, 2022"
+      },
+      {
+        "id": 5,
+        "user": "Anesuishe Bvukumbwe",
+        "title": "EFFECTIVE ,SHORT AND PRECISE LECTURES",
+        "text": "The lectures are short and precise and there is quick responses from tutors whenever you need assistance.Thumps up guys!",
+        "date": "December 03, 2022"
+      },
+      {
+        "id": 6,
+        "user": "M M",
+        "title": "Learn signal was extremely helpful for…",
+        "text": "Learn signal was extremely helpful for my ATX exams. Master classes from tutors were awesome. Each had a different approach but great advice for exam passing. I will continue to use it. Just in the practice platform some exam practise papers were not up to date and did not match up with the solution, so this caused a bit of back and forth. Also it would be helpful for the registered users not having to log in each time with pw. Everything else is great. Thanks for the support, appreciated!",
+        "date": "January 25, 2023"
+      },
+      {
+        "id": 7,
+        "user": "Ash B",
+        "title": "Top quality ACCA content",
+        "text": "Comprehensive overview of the courses. Lots of informative videos and practise questions",
+        "date": "February 02, 2022"
+      },
+      {
+        "id": 8,
+        "user": "Anesuishe Bvukumbwe",
+        "title": "EFFECTIVE ,SHORT AND PRECISE LECTURES",
+        "text": "The lectures are short and precise and there is quick responses from tutors whenever you need assistance.Thumps up guys!",
+        "date": "December 03, 2022"
+      },
+      {
+        "id": 9,
+        "user": "M M",
+        "title": "Learn signal was extremely helpful for…",
+        "text": "Learn signal was extremely helpful for my ATX exams. Master classes from tutors were awesome. Each had a different approach but great advice for exam passing. I will continue to use it. Just in the practice platform some exam practise papers were not up to date and did not match up with the solution, so this caused a bit of back and forth. Also it would be helpful for the registered users not having to log in each time with pw. Everything else is great. Thanks for the support, appreciated!",
+        "date": "January 25, 2023"
+      },
+      {
+        "id": 10,
+        "user": "Ash B",
+        "title": "Top quality ACCA content",
+        "text": "Comprehensive overview of the courses. Lots of informative videos and practise questions",
+        "date": "February 02, 2022"
+      },
+      {
+        "id": 11,
+        "user": "Anesuishe Bvukumbwe",
+        "title": "EFFECTIVE ,SHORT AND PRECISE LECTURES",
+        "text": "The lectures are short and precise and there is quick responses from tutors whenever you need assistance.Thumps up guys!",
+        "date": "December 03, 2022"
+      },
+      {
+        "id": 12,
+        "user": "M M",
+        "title": "Learn signal was extremely helpful for…",
+        "text": "Learn signal was extremely helpful for my ATX exams. Master classes from tutors were awesome. Each had a different approach but great advice for exam passing. I will continue to use it. Just in the practice platform some exam practise papers were not up to date and did not match up with the solution, so this caused a bit of back and forth. Also it would be helpful for the registered users not having to log in each time with pw. Everything else is great. Thanks for the support, appreciated!",
+        "date": "January 25, 2023"
+      }
+    ]
+  },
+  "sidebar": [
+    "Overview",
+    "Curriculum",
+    "Testimonials",
+    "FAQs",
+    "Try it FREE for 7 Days"
+  ],
+  "overview": {
+    "top": "OVERVIEW",
+    "title": "Why study {{abbr}} with Learnsignal?",
+    "why": "Why {{abbr}}?",
+    "text": [
+      "Get expert {{abbr}} tuition that covers 100% of the syllabus in a way that’s simple to learn and makes your exams easier to pass!",
+      "{{abbr}} is one of the most popular accounting qualifications. It is made up of three levels: Foundation, Advanced, and Professional, each of which take around a year to complete. There’s also Bookkeeping, which is a shorter qualification which takes subjects from Foundation and Advanced to create a Bookkeeping qualification.",
+      "Registration is now closed for the AQ16 syllabus, so please make sure that you only buy these courses if you are already registered with the {{abbr}}.",
+      "Anyone looking to register with the {{abbr}} from 1st September 2022 onwards must register on the new Q2022 syllabus."
+    ],
+    "contentTitle": "Our {{abbr}} course highlights:",
+    "study": [
+      {
+        "title": "Content developed by experts",
+        "text": "Course content and all other learning materials are carefully designed by our experts."
+      },
+      {
+        "title": "24/7 Tutor Support",
+        "text": "Get answers to your questions instantly from our expert tutors, any time you need it."
+      },
+      {
+        "title": "Practice Question",
+        "text": "Practice questions throughout every course to build your confidence and make sure you are making progress."
+      },
+      {
+        "title": "Guided Study Plans",
+        "text": "Guided study plans to get you ready to sit your exams."
+      }
+    ],
+    "content": [
+      {
+        "id": 1,
+        "title": "Guided study plans",
+        "text": "Study plans to guide and support your study"
+      },
+      {
+        "id": 2,
+        "title": "CBE test questions",
+        "text": "Computer Based Exams to make sure you are prepared for your exam"
+      },
+      {
+        "id": 3,
+        "title": "Expert notes & quizzes",
+        "text": "Learn by using our extensive notes and content, and test your knowledge with quizzes    "
+      },
+      {
+        "id": 4,
+        "title": "Video lectures & downloadable notes",
+        "text": "Topic-by-topic lectures, and the flexibility to download notes"
+      },
+      {
+        "id": 5,
+        "title": "Exam technique lessons",
+        "text": "Tips and techniques from experts to help you pass your exams    "
+      },
+      {
+        "id": 6,
+        "title": "Mock exams & correction packs",
+        "text": "Use mock exams and correction packs to get prepare for your exam, and get feedback from tutors    "
+      }
+    ],
+    "salary": "Average Salary",
+    "employer": "Increase in Earning Potential",
+    "time": "Average job satisfaction",
+    "countries": "Countries applicable"
+  },
+  "record": {
+    "title": "Our track record 🏆",
+    "text": "Everything you need to pass, in one place!",
+    "h2": "Our Hiring & Learning Partners",
+    "status": [
+      { "num": "220,000+", "text": "Total Users" },
+      { "num": "130+", "text": "Countries" },
+      { "num": "2.5 million", "text": "Lecturers Watched" },
+      { "num": "9.5 million", "text": "Questions Completed" }
+    ]
+  },
+  "teacher": {
+    "top": "FACULTY",
+    "title": "Our Experts. Your Tutors. 🎓 ",
+    "text": "Learn from the best to become the best finance professional in the business!    ",
+    "aboutTeacher": [
+      {
+        "name": "Kasimova Nargiza",
+        "status": "Director of the Center"
+      },
+      {
+        "name": "Khaitov Azizbek",
+        "status": "Head Specialist of the Center"
+      },
+      {
+        "name": "Bobir Tursunovich Mamatov",
+        "status": "Head Specialist of the Center"
+      }
+    ]
+  },
+  "change": "Change Password:",
+  "new": "New Password",
+  "repeat": "Repeat New Password",
+  "current": "Current Password",
+  "confirm": "Password must be confirmed",
+  "noConfirm": "Password not confirmed",
+  "save": "save Changes",
+  "cancel": "Cancel",
+  "support": "Support",
+  "faq": "FAQ",
+  "contact": "Contact Us",
+  "policy": "Privacy Policy",
+  "terms": "Terms & Conditions",
+  "company": "Company",
+  "development": "Professional Development"
+}
